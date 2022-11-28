@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+##Performing analysis on Kickstarter data to uncover trends
 
 Helping Louise find out more information on kickstarter campaigns for theater. 
-
-![Outcomes Based on Launch Date_Line Graph](C:\Users\ngill\OneDrive - IC IC\Bootcamp\Crowdfunding Analysis\Outcomes Based on Launch Date_Line Graph.png"
+![Outcomes Based on Launch Date_Line Graph](https://user-images.githubusercontent.com/113721712/204170849-fe48123f-5b01-4e18-9e8f-ed8e9a9640ca.png)
+![Parent Category Outcomes_Bar Chart](https://user-images.githubusercontent.com/113721712/204170857-66c6ce74-0b06-4298-9fbf-5fd142cee567.png)
