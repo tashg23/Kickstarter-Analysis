@@ -1,6 +1,6 @@
 # Kickstarter_Analysis
 ### Project Overview: 
-To help Louise determine how campaign launch date and funding goal influence the success of a campaign. 
+To help Louise determine how campaign launch date and funding goal influence the success of a theater campaign. 
 
 ### Analysis: 
 1. To determine the effect of campaign launch date on campaign success, a pivot table was created to display the number of successful/failed/cancelled campaigns based on month launch date
